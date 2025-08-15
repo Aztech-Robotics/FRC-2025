@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.8290983606557374,
+        "y": 4.198821721311475
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.8540983606557373,
+        "y": 5.2128217213114745
+      },
+      "isLocked": false,
+      "linkedName": "Df3"
+    },
+    {
+      "anchor": {
+        "x": 1.726229508196721,
+        "y": 7.327612704918032
+      },
+      "prevControl": {
+        "x": 2.9059795081967206,
+        "y": 6.1771127049180325
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Df2"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 2.0,
+    "maxAngularVelocity": 360.0,
+    "maxAngularAcceleration": 360.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 126.02699999999999
+  },
+  "reversed": false,
+  "folder": "Derecho",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 0.0
+  },
+  "useDefaultConstraints": true
+}
